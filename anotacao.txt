@@ -1,0 +1,12 @@
+
+
+
+
+git config --global user.name "samuelvrocha"
+git config --global user.email "samuelvrocha03@gmail.com"
+
+git config --list
+
+git init
+
+git chackout "Branch"
